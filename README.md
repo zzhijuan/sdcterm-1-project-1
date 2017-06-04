@@ -1,11 +1,7 @@
-# sdcterm-1-project-1
-Hi everyone!
+#Finding Lane Lines on the Road Udacity - Self-Driving Car NanoDegree
 
-I am June, came from China and now live in Houston. I graduated from University of Houston as a PHD in EE and then devoted my five years into the oil and gas industry... Somehow I start liking CS... Luckily, in this June (not my name....), I got a chance and was enrolled in Udacity self driving car program. The program is great! I will do all my best!  Wish me good luck! And looking forwrad to the comments from you, my friend!
+Combined Image
 
-In this repository, I uploaded the original jupyter notebook code, test images, test mp4s, outputs and the report. 
-
-Below is the introduction of the project. 
 Overview
 
 When we drive, we use our eyes to decide where to go. The lines on the road that show us where the lanes are act as our constant reference for where to steer the vehicle. Naturally, one of the first things we would like to do in developing a self-driving car is to automatically detect lane lines using an algorithm.
