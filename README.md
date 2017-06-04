@@ -1,7 +1,7 @@
 #**Finding Lane Lines on the Road** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-![alt text](https://raw.githubusercontent.com/zzhijuan/sdcterm-1-project-1/InputImages/solidWhiteRight.jpg)
+![solidwhiterightoutput](https://cloud.githubusercontent.com/assets/11493056/26765854/4c12a2b4-494a-11e7-95e2-fe78a37ee60a.png)
 
 Overview
 ---
